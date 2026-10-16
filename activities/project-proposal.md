@@ -11,7 +11,7 @@
 | Steve Nash H. Llamedo | stebbn | [https\://github.com/stebbn/CSC181/tree/main/activities](https://github.com/stebbn/CSC181/tree/main/activities) |
 | Rey Mark E. Degamo | Mark-Degams | [https\://github.com/Mark-Degams/csc181/tree/main/activities/project-proposal](https://github.com/Mark-Degams/csc181/tree/main/activities/project-proposal) |
 | Brent Jehu Senica&nbsp; | HiraethAKR&nbsp; | [https\://github.com/HiraethAKR/Group-3-Team-Brainstorming](https://github.com/HiraethAKR/Group-3-Team-Brainstorming) |
-| Joexua Ross Rieck L. Paco | Hoshi | \[Repository link\] |
+| Joexua Ross Rieck L. Paco | rpaco06 | [https://github.com/rpaco06/CSC181/blob/main/activities/project-proposal.md](https://github.com/rpaco06/CSC181/blob/main/activities/project-proposal.md) |
 
 &nbsp;
 
